@@ -1,7 +1,7 @@
 <div style=background-color:red>
  olá Eu sou Thales Kossman 🐱‍👓
 <br>
- 🐱‍🏍-no momento estou aprendendo NodeJs
+ 🐱‍🏍-no momento aprendendo React JS
 </div>
 <div>
   <a href="https://github.com/Thales-Kossman">
